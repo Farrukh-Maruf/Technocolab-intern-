@@ -1,6 +1,7 @@
 # CreditEligibility_and_PrepaymentRisk_Prediction
 
 
+![creditelibility_and_prepayment](https://github.com/Farrukh-Maruf/Technocolab-intern-/assets/115053478/d6c80b1c-2934-485f-b751-69b17d486f51)
 
 
 
