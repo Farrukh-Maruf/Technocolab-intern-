@@ -1,7 +1,6 @@
 # CreditEligibility_and_PrepaymentRisk_Prediction
 
 
-![Uploading creditelibility_and_prepayment.gif…]()
 
 
 
